@@ -24,4 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Moshi&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Moshi&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Daniel-Moshi&limit=5&theme=shadow_blue&hide_border=true&combine_all_yearly_contributions=true)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Daniel-Moshii&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
