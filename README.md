@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I'm Daniel 👋<br><br>💻 Just a nerd exploring the world of Tech.<br>🛠️ A bit of a beginner, but loving the journey.<br>🚀 Always learning, one bug at a time.<br><br>At the moment, I’m not working on any specific projects, but I’m dedicating my time to learning and improving my skills in shell scripting because it helps automate repetitive tasks on linux
+<br>Hi, I'm Daniel 👋<br><br>💻 Just a nerd exploring the world of Tech.<br>🛠️ A bit of a beginner, but loving the journey.<br>🚀 Always learning, one bug at a time.<br><br>At the moment, I’m not working on any specific projects, but I’m dedicating my time to learning and improving my skills on everything but now currently learning shell script because it helps automate repetitive tasks on linux.
 
 
 ## 🌐 Socials:
