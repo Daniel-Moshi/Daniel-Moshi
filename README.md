@@ -21,7 +21,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Daniel-Moshi&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Moshi&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Moshi&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Moshi&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Daniel-Moshi&limit=5&theme=shadow_blue&hide_border=true&combine_all_yearly_contributions=true)<br/>
 
